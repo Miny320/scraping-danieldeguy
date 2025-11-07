@@ -1,8 +1,7 @@
 node_modules
 watchData.json
 package-lock.json
-all_product_urls.json
-page_*.html
-page_*_urls.json
-*.html
-test-*.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
