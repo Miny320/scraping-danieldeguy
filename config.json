@@ -1,0 +1,6 @@
+{
+    "PARENT_URL": "https://www.danieldeguy.com/collections/montres-occasion-marques",
+    "CHECK_INTERVAL": 86400000,
+    "BACK_END_URL": "http://localhost:3001/api/v0/watch-bot"
+}
+
